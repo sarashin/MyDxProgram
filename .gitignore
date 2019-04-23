@@ -1,0 +1,5 @@
+*.exe
+ShaderPractice/Debug/
+ShaderPractice/ShaderPractice/Debug/
+ShaderPractice/ipch/SHADERPRACTICE-970a80f8/SHADERPRACTICE-907308ae.ipch
+ShaderPractice/ShaderPractice.VC.db

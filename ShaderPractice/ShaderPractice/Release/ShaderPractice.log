@@ -1,0 +1,4 @@
+﻿C:\Users\sarashin\documents\visual studio 2015\Projects\ShaderPractice\ShaderPractice\Shader\PixelShader.hlsl(28,26-36): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+C:\Users\sarashin\documents\visual studio 2015\Projects\ShaderPractice\ShaderPractice\Shader\PixelShader.hlsl(25,15-19): error X4502: invalid vs_2_0 input semantic 'VEC'
+  
+  compilation failed; no code produced
